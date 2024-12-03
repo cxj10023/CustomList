@@ -1,1 +1,2 @@
- - DOMAIN-KEYWORD,adobe.io,REJECT
+payload:
+- DOMAIN-KEYWORD,adobe.io
