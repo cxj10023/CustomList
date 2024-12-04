@@ -2,4 +2,5 @@ payload:
 - DOMAIN,access.pikpak.me
 - DOMAIN,access.pikpakdrive.com
 - DOMAIN-SUFFIX,hath.network
-- DOMAIN,level-plus.net
+- DOMAIN-SUFFIX,level-plus.net
+- DOMAIN-SUFFIX,north-plus.net
