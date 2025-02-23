@@ -5,4 +5,5 @@ payload:
 - DOMAIN-SUFFIX,level-plus.net
 - DOMAIN-SUFFIX,north-plus.net
 - DOMAIN-KEYWORD,hentai
-- SRC-IP-CIDR,43.167.207.222/32
+- DOMAIN-SUFFIX,listdl.com
+- DOMAIN-SUFFIX,aki-game.net
